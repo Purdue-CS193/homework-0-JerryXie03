@@ -1,3 +1,12 @@
+##Jiarui Xie's First CS193 Homework
+Alright, why do I like CS193?
+ - it's only one lecture per week
+ - it's short
+ - it's taught by students
+ - it's a great way to get into CS quickly: CS180 ain't gonna wait for you.
+
+
+
 ## Welcome to GitHub Pages
 
 Weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
